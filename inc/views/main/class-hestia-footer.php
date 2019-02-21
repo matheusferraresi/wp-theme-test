@@ -130,7 +130,7 @@ class Hestia_Footer extends Hestia_Abstract_Main {
 			'hestia_general_credits',
 			sprintf(
 				/* translators: %1$s is Theme Name, %2$s is WordPress */
-				esc_html__( 'Test Theme | Developed by TestDev v0.0.3', 'hestia' ),
+				esc_html__( 'Test Theme | Developed by TestDev v0.0.4', 'hestia' ),
 				esc_html__( 'Hestia', 'hestia' ),
 				/* translators: %1$s is URL, %2$s is WordPress */
 				sprintf(
